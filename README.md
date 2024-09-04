@@ -1,6 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGR9gCPfwLkXw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719355709168?e=1730937600&v=beta&t=GQQO1pEnkceXyiGOC6s8NZSIaAGKhDdQXiiMQUZwclw)](https://montagab.vercel.app/)
+
 <h1 align="center">Hi 👋, I'm Montagab AL-Hamawy</h1>
-<h3 align="center">A passionate frontend developer from Syria</h3>
+<h3 align="center">A passionate Front-End Developer from Syria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=montagabalhamawy&label=Profile%20views&color=0e75b6&style=flat" alt="montagabalhamawy" /> </p>
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://montagab.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://montagab.vercel.app/)
 
 - 💬 Ask me about **React , Next.js**
 
